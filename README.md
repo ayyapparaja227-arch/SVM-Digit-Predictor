@@ -132,10 +132,13 @@ Pillow
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 Developer
 
-**Ayyappa Raja**  
-[GitHub](https://github.com/ayyapparaja227-arch)
+| | |
+|---|---|
+| **Name** | Ayyapparaja |
+| **Project** | SVM Digit Predictor — Load Digits & SVM Classification |
+| **GitHub** | [@ayyapparaja227-arch](https://github.com/ayyapparaja227-arch) |
 
 ---
 
